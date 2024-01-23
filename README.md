@@ -10,17 +10,38 @@ Introducing the Olympics Data Analysis Web App, a dynamic exploration of 124 yea
 
 1. **Historical Insights:** Delve into 124 years of Olympic history, exploring every edition from Athens 1896 to the latest events, uncovering historical trends and shifts in the world of sports.
 
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/5fad87b2-d387-41a8-9c55-9180ce33a573)
+
+
 2. **Interactive Visualizations:** Experience data like never before with dynamic and interactive charts, graphs, and maps that bring Olympic statistics to life, making complex information easily digestible.
 
-3. **Medal Tracker:** Track the rise and fall of countries on the Olympic medal tally. Compare performances over the years, identify powerhouse nations, and discover emerging contenders.
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/c1b86ff8-a5b0-4f3f-8177-42f350b5d67a)
+
+
+3. **Medal Tracker:** Track the rise and fall of countries on the Olympic medal tally. Compare performances over the years, identify powerhouse nations, and discover emerging contenders.                          
+ 
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/2f3a6732-c6ce-446b-b520-24a88b192aad)
+
 
 4. **Athlete Analysis:** Explore the journey of individual athletes, from their first appearance to their triumphant moments. Analyze their medal hauls, participation trends, and contributions to their nation's success.
 
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/174a1561-c96a-485d-8931-7730164d2826)
+
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/501c2537-a308-4f50-b65d-ed13e04ad696)
+
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/8a7c7011-e160-418d-bf6e-cf997448e173)
+
 5. **Sports Evolution:** Witness the evolution of Olympic sports over the years. Identify the introduction of new sports, changes in popularity, and the dynamic nature of the Games' sporting landscape.
+
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/fd24bbab-86c1-4d15-a2af-afd8b1c352e9)
 
 6. **Statistical Breakdowns:** Gain deep insights through statistical breakdowns, including average medal counts, winning margins, and statistical analyses that unravel patterns and anomalies.
 
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/2cb1b626-502a-42b2-af45-b53b23c6d91b)
+
 7. **User-Friendly Interface:** Navigate seamlessly through the app with an intuitive and user-friendly interface, ensuring an engaging and effortless exploration of the vast Olympic dataset.
+
+![image](https://github.com/sharmanitish1401/analysis_project/assets/156241419/086dc32c-7fb5-4057-b0b1-235ba6906e32)
 
 8. **Streamlit Integration:** Leverage the power of Streamlit for a responsive and streamlined user experience, enabling real-time updates and instant interactions with the data.
 
